@@ -1,0 +1,12 @@
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\bin\Debug\net8.0\BookingSystem.Core.deps.json
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\bin\Debug\net8.0\BookingSystem.Core.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\bin\Debug\net8.0\BookingSystem.Core.pdb
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.csproj.AssemblyReference.cache
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.AssemblyInfoInputs.cache
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.AssemblyInfo.cs
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.csproj.CoreCompileInputs.cache
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\refint\BookingSystem.Core.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\BookingSystem.Core.pdb
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Core\obj\Debug\net8.0\ref\BookingSystem.Core.dll

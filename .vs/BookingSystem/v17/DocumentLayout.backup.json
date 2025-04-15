@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|solutionrelative:bookingsystem.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.infrastructure\\services\\hasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|solutionrelative:bookingsystem.infrastructure\\services\\hasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\interfaces\\ihasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\interfaces\\ihasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\models\\logincredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\models\\logincredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9461E3C1-4975-401A-9AFF-6539361027FF}|BookingSystem.Core\\BookingSystem.Core.csproj|solutionrelative:bookingsystem.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.infrastructure\\data\\bookingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|solutionrelative:bookingsystem.infrastructure\\data\\bookingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.API.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.API.csproj|solutionrelative:bookingsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.csproj|solutionrelative:bookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.csproj|solutionrelative:bookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem.infrastructure\\bookingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7246EFD5-9292-463F-AE3A-B8F10B603640}|BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj|solutionrelative:bookingsystem.infrastructure\\bookingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.API.csproj|d:\\projekts\\2025\\nelly\\bookingsystem\\bookingsystem\\bookingsystem\\bookingsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4F12447-5F51-4319-B1E5-C0962BD71BD4}|BookingSystem\\BookingSystem.API.csproj|solutionrelative:bookingsystem\\bookingsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:11:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Interfaces\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Interfaces\\IUserInterface.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Interfaces\\IUserInterface.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Interfaces\\IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:08:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "BookingSystem.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:07:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HasherService.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\Services\\HasherService.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Infrastructure\\Services\\HasherService.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\Services\\HasherService.cs",
+              "RelativeToolTip": "BookingSystem.Infrastructure\\Services\\HasherService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:05:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHasher.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Interfaces\\IHasher.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Interfaces\\IHasher.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Interfaces\\IHasher.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Interfaces\\IHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:04:22.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Models\\Role.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\Role.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:04:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BookingSystem\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BookingSystem\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:03:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Models\\Room.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\Room.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:43:23.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Models\\Booking.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\Booking.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:43:16.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:42:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginCredential.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\LoginCredential.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Models\\LoginCredential.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\LoginCredential.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Models\\LoginCredential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:41:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Core\\Models\\User.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Core\\Models\\User.cs",
+              "RelativeToolTip": "BookingSystem.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:40:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingSystemContext.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\Data\\BookingSystemContext.cs",
+              "RelativeDocumentMoniker": "BookingSystem.Infrastructure\\Data\\BookingSystemContext.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\Data\\BookingSystemContext.cs",
+              "RelativeToolTip": "BookingSystem.Infrastructure\\Data\\BookingSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:25:21.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingSystem.Infrastructure",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj",
+              "RelativeToolTip": "BookingSystem.Infrastructure\\BookingSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T10:23:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BookingSystem\\Program.cs",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\Program.cs",
+              "RelativeToolTip": "BookingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:04:10.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "BookingSystem\\appsettings.json",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\appsettings.json",
+              "RelativeToolTip": "BookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T10:00:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingSystem.API.csproj",
+              "DocumentMoniker": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\BookingSystem.API.csproj",
+              "RelativeDocumentMoniker": "BookingSystem\\BookingSystem.API.csproj",
+              "ToolTip": "D:\\projekts\\2025\\Nelly\\BookingSystem\\BookingSystem\\BookingSystem\\BookingSystem.API.csproj",
+              "RelativeToolTip": "BookingSystem\\BookingSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T09:50:36.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

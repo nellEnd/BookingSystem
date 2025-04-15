@@ -1,0 +1,15 @@
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\bin\Debug\net8.0\BookingSystem.Infrastructure.deps.json
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\bin\Debug\net8.0\BookingSystem.Infrastructure.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\bin\Debug\net8.0\BookingSystem.Infrastructure.pdb
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\bin\Debug\net8.0\BookingSystem.Core.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\bin\Debug\net8.0\BookingSystem.Core.pdb
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.AssemblyInfo.cs
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingS.84CF42C0.Up2Date
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\refint\BookingSystem.Infrastructure.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.pdb
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\ref\BookingSystem.Infrastructure.dll

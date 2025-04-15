@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BookingSystem.API.Controllers.BookingController",
+    "Method": "Test",
+    "RelativePath": "api/Booking/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
