@@ -13,3 +13,4 @@ D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\
 D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\refint\BookingSystem.Infrastructure.dll
 D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.pdb
 D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\ref\BookingSystem.Infrastructure.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem.Infrastructure\obj\Debug\net8.0\BookingSystem.Infrastructure.sourcelink.json

@@ -1,4 +1,6 @@
+using BookingSystem.Core.Interfaces;
 using BookingSystem.Infrastructure.Data;
+using BookingSystem.Infrastructure.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -10,8 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add DbContext with MySQL
 builder.Services.AddDbContext<BookingSystemContext>(options =>
-    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-    new MySqlServerVersion(new Version(8, 0, 34))));
+    options.UseMySql(builder.Configuration.GetConnectionString("DBConnection"),
+    new MySqlServerVersion(new Version(8, 0, 41))));
 
 // Configure JWT
 var jwtKey = builder.Configuration["Jwt:Key"];
@@ -52,6 +54,10 @@ builder.Services.AddSwaggerGen(c =>
         { new OpenApiSecurityScheme { Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" } }, new string[] { } }
     });
 });
+
+// Dependency Injection
+builder.Services.AddScoped<IHasher, HasherService>();
+builder.Services.AddScoped<IUserInterface, UserService>();
 
 var app = builder.Build();
 

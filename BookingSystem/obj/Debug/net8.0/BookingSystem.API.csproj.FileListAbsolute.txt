@@ -118,3 +118,4 @@ D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem\obj\Debug\net8.
 D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.API.pdb
 D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.API.genruntimeconfig.cache
 D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem\obj\Debug\net8.0\ref\BookingSystem.API.dll
+D:\projekts\2025\Nelly\BookingSystem\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.API.sourcelink.json
