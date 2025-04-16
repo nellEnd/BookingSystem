@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BookingSystem.Core.Models
+namespace BookingSystem.Core.Dtos
 {
-    public class Booking
+    public class BookingDto
     {
-        public int Id { get; set; }
-        public int UserId { get; set; }
-        public int RoomId { get; set; }
+        public string? RoomName { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
     }

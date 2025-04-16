@@ -5,11 +5,42 @@
     "version": "v1"
   },
   "paths": {
-    "/api/Booking/Test": {
+    "/api/Booking/GetUserBookings": {
       "get": {
         "tags": [
           "Booking"
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Booking/CreateBooking": {
+      "post": {
+        "tags": [
+          "Booking"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BookingDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BookingDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BookingDto"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
@@ -113,6 +144,24 @@
   },
   "components": {
     "schemas": {
+      "BookingDto": {
+        "type": "object",
+        "properties": {
+          "roomName": {
+            "type": "string",
+            "nullable": true
+          },
+          "startTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endTime": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
       "LoginDto": {
         "required": [
           "password",

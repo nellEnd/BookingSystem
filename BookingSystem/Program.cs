@@ -58,6 +58,9 @@ builder.Services.AddSwaggerGen(c =>
 // Dependency Injection
 builder.Services.AddScoped<IHasher, HasherService>();
 builder.Services.AddScoped<IUserInterface, UserService>();
+builder.Services.AddScoped<IBookingInterface, BookingService>();
+builder.Services.AddScoped<IRoomInterface, RoomService>();
+
 
 var app = builder.Build();
 

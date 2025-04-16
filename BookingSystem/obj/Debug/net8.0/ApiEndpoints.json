@@ -1,8 +1,24 @@
 [
   {
     "ContainingType": "BookingSystem.API.Controllers.BookingController",
-    "Method": "Test",
-    "RelativePath": "api/Booking/Test",
+    "Method": "CreateBooking",
+    "RelativePath": "api/Booking/CreateBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BookingSystem.Core.Dtos.BookingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookingSystem.API.Controllers.BookingController",
+    "Method": "GetUserBookings",
+    "RelativePath": "api/Booking/GetUserBookings",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
